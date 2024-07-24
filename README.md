@@ -19,7 +19,7 @@ Technologies Used
 - JavaScript/jQuery: For dynamic content and AJAX requests.
 - Bootstrap: Styling and responsive design.
 
-## How to Run the Application
+ ## How to Run the Application
 
 1. Clone the Repository:
 
@@ -27,7 +27,7 @@ Technologies Used
    cd your-repository
 
 2. Install Dependencies:
-   EnsuRun the Development Server**:
+   EnsuRun the Development Server:
    Start the Django development server:
  
    python manage.py runserver
