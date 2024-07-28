@@ -24,8 +24,8 @@ You can make directory then add all this files in that, you need to add html fil
 I have uploaded video you can watch how app is running.
 1. Clone the Repository:
 
-   git clone https://github.com//your-repository.git
-   cd your-repository
+   git clone https://github.com/M-Usama04/Python-Quiz-App.git
+   cd Python-Quiz-App.git
 
 2. Install Dependencies:
    EnsuRun the Development Server:
