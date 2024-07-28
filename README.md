@@ -20,10 +20,11 @@ Technologies Used
 - Bootstrap: Styling and responsive design.
 
  ## How to Run the Application
-
+You can make directory then add all this files in that, you need to add html files in new directory by creating in home app called template, after adding code of model.py or making changes in it, you have to type python manage.py makemigrations and then python manage.py migrate, then you can runserver to start quiz app, you need to have little knowldge of django to make app using this code files.
+I have uploaded video you can watch how app is running.
 1. Clone the Repository:
 
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com//your-repository.git
    cd your-repository
 
 2. Install Dependencies:
@@ -33,8 +34,10 @@ Technologies Used
    python manage.py runserver
   
 
-   Access the Application**:
+   Access the Application:
    Open your web browser and go to `http://127.0.0.1:8000/` to use the application.
+   You can then select category for which subject you want to give quiz, then attempt quiz, option will display, you
+   have button below 'Edit Quiz' which will redirect you to admin page for editing quiz, adding questions, etc, when    you click 'submit quiz' button result will be displayed, you can attempt quiz again.
 
 ## Accessing the Admin Interface
 
